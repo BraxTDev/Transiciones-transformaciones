@@ -1,0 +1,9 @@
+div::before {
+  /* antes del texto algun contenido */
+
+  content: "**";
+}
+
+div::after {
+  content:  '@@';
+}
